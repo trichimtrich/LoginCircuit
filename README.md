@@ -102,8 +102,8 @@ Delay 3s tự chuyển sang ADMIN(STAGE 6)
       - Bắt tín hiệu các phím bấm để chuyển trạng thái
 
 ### Tham khảo:
-1) DE2_LCĐ_DataSheet
-2) Digital Design - Principles and Practices
-3) Verilog HDL A guide to Digital Design and Synthesis
-4) dientuvietnam.com
-5) Wikipedia
+1. DE2_LCĐ_DataSheet
+2. Digital Design - Principles and Practices
+3. Verilog HDL A guide to Digital Design and Synthesis
+4. dientuvietnam.com
+5. Wikipedia
